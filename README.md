@@ -6,4 +6,5 @@ Documentation: https://pdfbox.apache.org/index.html
 
 
 2. pdf extractor using OCR 
+
 Official GitHub: https://github.com/tesseract-ocr/
